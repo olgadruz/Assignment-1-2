@@ -1,0 +1,14 @@
+/Users/Druzhkova/Documents/Lyrics/bin/Debug/net8.0/Lyrics
+/Users/Druzhkova/Documents/Lyrics/bin/Debug/net8.0/Lyrics.deps.json
+/Users/Druzhkova/Documents/Lyrics/bin/Debug/net8.0/Lyrics.runtimeconfig.json
+/Users/Druzhkova/Documents/Lyrics/bin/Debug/net8.0/Lyrics.dll
+/Users/Druzhkova/Documents/Lyrics/bin/Debug/net8.0/Lyrics.pdb
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.AssemblyInfoInputs.cache
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.AssemblyInfo.cs
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.dll
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/refint/Lyrics.dll
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.pdb
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.genruntimeconfig.cache
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/ref/Lyrics.dll
