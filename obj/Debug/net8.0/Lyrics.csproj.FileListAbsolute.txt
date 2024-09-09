@@ -12,3 +12,4 @@
 /Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.pdb
 /Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.genruntimeconfig.cache
 /Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/ref/Lyrics.dll
+/Users/Druzhkova/Documents/Lyrics/obj/Debug/net8.0/Lyrics.sourcelink.json
